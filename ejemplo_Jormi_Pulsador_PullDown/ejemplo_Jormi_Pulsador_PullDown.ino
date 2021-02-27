@@ -7,7 +7,7 @@
 /*
  * Define objetos y variables necesarias
  */
-Jormi_Pulsador botoncillo(7, false); //pulsador en pin 7 y tipo PD
+Jormi_Pulsador botoncillo(9, false); //pulsador en pin 7 y tipo PD
 Jormi_Led miled(6);           //led en pin 6
 Jormi_Depura mensaje;
 
