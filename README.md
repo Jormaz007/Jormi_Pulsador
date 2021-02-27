@@ -10,7 +10,6 @@
 			Pulsado = 5v
 			GND > resistencia > pinDigital > Pulsador > 5V
 
-	---------------------------------
 
 Constructor
 	int pin		pin conectado al pulsador
