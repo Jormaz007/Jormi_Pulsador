@@ -1,11 +1,11 @@
-	Jormi_Pulsador.h
+Jormi_Pulsador.h
 	Librería de manejo de pulsadores
 	v0.2	20200906
 	
 	Version Pull Up - PU
 			Pulsado = 0v
 			GND > Pulsador > pinDigital > resistencia > 5V
-	Version Pull Down - PD		
+	Version Pull Down - PD
 			Pulsado = 5v
 			Pulsado = 5v
 			GND > resistencia > pinDigital > Pulsador > 5V
