@@ -17,7 +17,7 @@
 		bool tipo	pull up = true	/ pull down = false (habitual)
 
 
-	bool estado();
+	bool estado()
 		Lee estado del pulsador
 			version PullUp (pulsado == LOW)
 			version PullDown (pulsado == HIGH)
@@ -26,9 +26,9 @@
 			false, no pulsado
 
 
-	void update();
+	void update()
 		Update en el loop
 
 
-	void informacion();
+	void informacion()
 		Información, Muestra en ventana de depuración info de las variables
